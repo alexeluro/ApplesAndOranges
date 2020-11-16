@@ -88,10 +88,7 @@ public class AppleAndOrange {
             }
         }
 
-//        System.out.println(String.format("Total Apples: %d \nTotal Oranges: %d", totalApples, totalOranges));
         System.out.println(String.format("%d \n%d", totalApples, totalOranges));
-
-
 
     }
 
